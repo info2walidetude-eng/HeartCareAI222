@@ -1,0 +1,19 @@
+HEARTCARE AI V2.1 - OUVERTURE RAPIDE
+=================================
+
+1. Décompressez l'archive ZIP.
+2. Dans Android Studio : File > Open > choisir le dossier HeartCareAI.
+3. Attendez la synchronisation Gradle (Internet requis au premier lancement).
+4. Vérifiez la présence du SDK Android 36 et d'un JDK 17.
+5. Sélectionnez un émulateur ou un téléphone Android et cliquez sur Run.
+
+POUR TESTER LES MODIFICATIONS :
+- Ouvrez Créer un compte et renseignez nom, e-mail, mot de passe,
+  âge, sexe et douleur thoracique.
+- Ouvrez Mon profil : les trois valeurs sont présentes et en lecture seule.
+- Ouvrez Évaluer : ces valeurs sont reprises automatiquement.
+- Pour un ancien compte V2, complétez d'abord ces champs dans Mon profil.
+
+IMPORTANT : ce code n'a pas été compilé avec le SDK Android ici ;
+les tests métier et SQLite sont détaillés dans VERIFICATION_V2_1.md.
+Ne pas utiliser avec de vraies données de santé : SQLite non chiffré.

@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+*.iml
+build/
+app/build/
+local.properties
+.venv/
+__pycache__/
+*.pyc
+ml/heart.csv
+.DS_Store

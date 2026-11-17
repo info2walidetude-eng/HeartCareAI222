@@ -1,0 +1,5 @@
+Le modele heart_model.json sera cree ici par le script ml/train_export.py
+apres avoir place heart.csv dans ml/.
+Sans modele, l'application sauvegarde les bilans mais ne produit pas de prediction.
+
+Photos de capteurs : Tiia Monto / Wikimedia Commons (CC BY-SA 3.0 / 4.0). Voir CREDITS_PHOTOS_BLE.md.
